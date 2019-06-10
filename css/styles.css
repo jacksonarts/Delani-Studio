@@ -1,13 +1,13 @@
 
-.container-fluid{
+.class1{
   position: relative;
 }
-.container-fluid img{
+.class1 img{
   width: 100%;
   height: 100%
 }
 
-.center{
+.class2{
   position: absolute;
   top: 300px;
   left: 50%;
@@ -16,27 +16,27 @@
   text-align: center;
 
 }
-.center img{
+.class2 img{
 	width: 25%;
 	height: 25%;
 }
 #bottom{
-	margin-top: 100px; 
+	margin-top: 100px;
  	height: 30px;
  	width: 20px;
 }
-.aboutus{
+.class3{
 	text-align: center;
 	margin-top: 20px;
 	line-height: 2.0;
 	font-family: sans-serif;
 }
-.otherImage{
+.class4{
 	margin-top: 40px;
 	position: relative;
 }
- 
-.services{
+
+.class8{
 	position: absolute;
 	top: 130px;
 	left: 15%;
@@ -44,11 +44,11 @@
 	text-align: center;
 	line-height: 2;
 }
-.headers{
+.class5{
 	text-align: center;
 	margin-top: 40px;
 }
-.headers img{
+.class5 img{
 	width: 15%;
 	height: 70%;
 }
@@ -61,11 +61,11 @@
 	padding: 0%;
 	margin-left: 0px;
 }
-.below{
+.class6{
 	margin-top: 40px;
 	position: relative;
 }
-.contactus{
+.contact-us{
 	position: absolute;
 	left: 10%;
 	top: 100px;
@@ -83,19 +83,19 @@ textarea{
 	margin-top: 25px;
 	opacity: 0.4;
 }
-.social{
+.social-icons{
 	margin-top: 40px;
 }
-.social img{
+.social-icons img{
 	height: 50px;
 	width: 50px;
 }
-.ending{
+.class7{
 	margin-top: 35px;
 	text-align: center;
 	font-size: 15px;
 }
-.definations{
+.class9{
 	font-size: 14px;
 	word-spacing: 2px;
 	text-align: center;

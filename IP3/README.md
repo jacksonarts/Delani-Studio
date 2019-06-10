@@ -1,8 +1,8 @@
-# IP3
 # Delani-studio
-#### This is a project on Delani-studio website, 9th July 2019
+#### This is a project on Delani-studio website, which will alert the user to input their details 9th July 2019
 #### By **Francis kimari**
 ## Description
+The projects bears a description of designs, products & developments of Delani-studio which will prompt the user to key in their details & get feedback on Delani-studio
 
 ## Setup/Installation Requirements
 Use the following commands to start using this program :
@@ -11,8 +11,23 @@ Use the following commands to start using this program :
 * `cd Delani-studio`
 * `atom .`
 ##Behavior Driven Development
-* Below The program should
+* Below is how the The program should run*
+* loading the page*
 
+**The icons should disappear and one should get the descriptions of the design**
+
+* Upon clicking the description button*
+**icon should disappear and  one should receive a description of the design**
+
+ * When one clicks product button**
+ **icon should disappear and  one should receive the product**
+
+
+ * subscription button*
+ ** Alerts you to enter details & make subscription**
+
+*Technologies used*
+**HTML, CSS, bootstrap, JavaScript, jQuery**
 
 ### License
 MIT License
